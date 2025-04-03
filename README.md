@@ -1,2 +1,6 @@
 # Proyecto-Mental-Health-PowerBI
-Proyecto de fin de modulo en PowerBi realizado junto a mi compañera donde explicamos mediantes visualizaciones como afecta la salud mental dependiendo de varios factores de la sociedad.
+Objetivo del proyecto: Transformar datos complejos en insights claros que mejoran la salud mental y el bienestar, identificando tendencias críticas para facilitar decisiones estratégicas y promover entornos laborales y sociales saludables.
+
+Fuentes de datos: Archivo CSV de la web Kaggle
+
+Herramientas usadas: Power BI, SQL.
